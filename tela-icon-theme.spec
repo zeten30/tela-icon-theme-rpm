@@ -1,5 +1,5 @@
 Name:           tela-icon-theme
-Version:        2022.05
+Version:        2022.08
 Release:        1%{?dist}
 Summary:        A flat colorful design icon theme
 
